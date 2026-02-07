@@ -10,6 +10,12 @@ Project ini menjawab pertanyaan bisnis utama:
 
 ---
 
+## 📊 Dashboard Preview
+
+![Marketing Analytics Dashboard](Screenshot%20Dashboard.png)
+
+---
+
 ## 🎯 Objectives
 - Mengukur performa tiap channel marketing
 - Membandingkan **efektivitas** (CTR & Conversion Rate)
@@ -43,7 +49,7 @@ Berdasarkan hasil dashboard:
 
 ## 🔍 Key Insights
 1. **CTR dan Conversion Rate tidak selalu sejalan**  
-   Channel dengan CTR tinggi belum tentu memiliki conversion rate tinggi. Hal ini mengindikasikan potensi masalah pada **landing page atau user journey**.
+   Channel dengan CTR tinggi belum tentu memiliki conversion rate tinggi, mengindikasikan potensi masalah pada **landing page atau user journey**.
 
 2. **Traffic tinggi ≠ profit tinggi**  
    Fokus hanya pada CTR dapat menyesatkan jika channel tersebut memiliki **CPA tinggi dan ROAS rendah**.
@@ -51,7 +57,7 @@ Berdasarkan hasil dashboard:
 3. **ROAS adalah metrik utama untuk scaling**  
    Channel dengan ROAS tinggi menunjukkan keseimbangan terbaik antara cost dan revenue.
 
-4. **Efisiensi biaya menentukan keberlanjutan**  
+4. **Efisiensi biaya menentukan keberlanjutan strategi**  
    Channel dengan CPA rendah lebih aman untuk strategi jangka panjang.
 
 ---
