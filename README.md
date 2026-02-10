@@ -94,9 +94,3 @@ Berdasarkan hasil dashboard:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
----
-
-## Or Go Straight to the page 🚀🚀🚀🚀
-```bash
-https://marketinganalyticsandappuctstrategy-mnyxkojqtgu7wse8vzylrn.streamlit.app/
