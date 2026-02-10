@@ -10,8 +10,15 @@ Project ini menjawab pertanyaan bisnis utama:
 
 ---
 
-## 📊 Dashboard Preview
+## 🌐 Live Interactive Dashboard
+🚀 **Akses dashboard Streamlit secara langsung di sini:**  
+👉 **https://marketinganalyticsandappuctstrategy-mnyxkojqtgu7wse8vzylrn.streamlit.app/**
 
+> Dashboard ini bersifat interaktif dan memungkinkan eksplorasi performa setiap marketing channel secara real-time.
+
+---
+
+## 📊 Dashboard Preview
 ![Marketing Analytics Dashboard](Screenshot%20Dashboard.png)
 
 ---
@@ -90,7 +97,7 @@ Berdasarkan hasil dashboard:
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run Locally
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
